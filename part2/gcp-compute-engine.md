@@ -13,15 +13,15 @@ gcloud init
 3- Select project
 
 Pick cloud project to use: 
- [1] bq-taw-data
- [2] cloud-solutions-group
- [3] cloudshell-images
- [4] dw-workshop
- [5] hcls-testing-data
- [6] qwiklabs-gcp-04-c26ac218452c
- [7] qwiklabs-resources
- [8] Create a new project
-Please enter numeric choice or text value (must exactly match list 
+ [1] bq-taw-data  
+ [2] cloud-solutions-group  
+ [3] cloudshell-images  
+ [4] dw-workshop  
+ [5] hcls-testing-data  
+ [6] qwiklabs-gcp-04-c26ac218452c  
+ [7] qwiklabs-resources  
+ [8] Create a new project  
+ Please enter numeric choice or text value (must exactly match list 
 item):  6
 
 4- Define Zone
